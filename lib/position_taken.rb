@@ -1,5 +1,4 @@
 def position_taken?(array, index)
-  if array[index] == "  " || array[index] == " " || array[nil]
-    false
+  if array[index] == " "
   end
 end
